@@ -16,13 +16,10 @@ This form is built using:
 
 HTML
 CSS
+
 File Structure
 index.html: HTML file containing the form structure.
 style.css: CSS file for styling the form elements.
-Output Screenshot
-
-Here's what the form looks like:
-
 
 Author
 This form was created by [NIKHIL KUMAR SAGAR].
